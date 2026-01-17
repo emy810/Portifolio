@@ -1,6 +1,6 @@
 # Emebet Hunde – Portfolio Website
 
-A simple and clean personal portfolio website showcasing projects, skills, and contact information. Built with HTML, CSS, and JavaScript and deployed using GitHub Pages.
+A simple and clean personal portfolio website showcasing projects, skills, and contact information. Built with HTML and CSS and deployed using GitHub Pages.
 
 ## 🚀 Live Demo
 https://emy810.github.io/Portifolio/
